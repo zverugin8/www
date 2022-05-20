@@ -1,0 +1,1 @@
+<a class="dark_link" href="mailto:incomkazakhstan@gmail.com">incomkazakhstan@gmail.com</a>
